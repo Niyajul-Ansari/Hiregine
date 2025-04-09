@@ -76,7 +76,7 @@ function Section() {
     <div className="container mx-auto px-4">
       {/* Buttons Section */}
       <div className="flex justify-center gap-4 mb-12">
-        <button className="border-2 border-blue-500 text-blue-500 px-10 py-4 rounded-lg shadow-sm font-semibold hover:bg-blue-50 transition duration-300">
+        <button className="border-2 border-red-500 text-red-500 px-10 py-4 rounded-lg shadow-sm font-semibold hover:bg-blue-50 transition duration-300">
           I'm Hiring
         </button>
         <button className="border-2 border-gray-300 text-gray-500 px-10 py-4 rounded-lg shadow-sm font-semibold hover:bg-gray-100 transition duration-300">
@@ -106,7 +106,7 @@ function Section() {
           <p className="text-gray-600 mb-8">
             Discover a world of possibilities with Zyoin Group.
           </p>
-          <button className="border-2 border-blue-500 text-blue-500 px-8 py-3 rounded-lg shadow-sm font-semibold hover:bg-blue-50 transition duration-300">
+          <button className="border-2 border-red-500 text-red-500 px-8 py-3 rounded-lg shadow-sm font-semibold hover:bg-red-300 transition duration-300">
             CONNECT WITH US
           </button>
         </div>

@@ -61,7 +61,7 @@ function Recantjobs() {
         <div className="px-6 py-16 max-w-7xl mx-auto">
       {/* Section Heading */}
       <div className="text-center mb-10">
-        <h2 className="text-blue-500 font-bold text-3xl md:text-4xl">
+        <h2 className="text-red-500 font-bold text-3xl md:text-4xl">
           RECENT JOBS
         </h2>
         <p className="text-black font-semibold text-lg md:text-xl mt-2">
@@ -92,7 +92,7 @@ function Recantjobs() {
               </div>
 
               {/* Job Title */}
-              <h3 className="text-lg md:text-xl font-bold text-gray-900 group-hover:text-blue-500 transition duration-300">
+              <h3 className="text-lg md:text-xl font-bold text-gray-900 group-hover:text-red-500 transition duration-300">
                 {job.title}
               </h3>
 
@@ -114,7 +114,7 @@ function Recantjobs() {
       <div className="text-center mt-10">
         <a
           href="/jobs"
-          className="inline-block border border-black text-black px-6 py-2 rounded-md hover:bg-black hover:text-white transition duration-300"
+          className="inline-block border border-black text-black px-6 py-2 rounded-md hover:bg-red-400 hover:text-white transition duration-300"
         >
           VIEW MORE JOBS
         </a>

@@ -7,7 +7,7 @@ const MissionVisionSection = () => {
             <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
                 {/* Left Side: Text Content */}
                 <div>
-                    <h2 className="text-3xl md:text-4xl font-bold text-blue-600">
+                    <h2 className="text-3xl md:text-4xl font-bold text-red-600">
                         OUR MISSION & VISION
                     </h2>
                     <p className="text-gray-600 mt-4 text-lg">

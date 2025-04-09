@@ -49,7 +49,7 @@ const HighlightsSection = () => {
             {/* Title */}
             <div className="text-center mb-8">
                 <h2 className="text-3xl md:text-4xl font-bold">
-                    <span className="text-blue-600">HERE ARE SOME NOTABLE</span> <br />
+                    <span className="text-red-600">HERE ARE SOME NOTABLE</span> <br />
                     HIGHLIGHTS ABOUT US
                 </h2>
             </div>

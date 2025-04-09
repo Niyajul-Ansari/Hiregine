@@ -37,7 +37,7 @@ function Employe() {
         <div className="bg-[#f0f4f8] py-16">
         {/* Heading Section */}
         <div className="text-center mb-12">
-          <h2 className="text-3xl font-bold text-blue-600 uppercase">
+          <h2 className="text-3xl font-bold text-red-500 uppercase">
             Empowering Business
           </h2>
           <p className="text-xl font-semibold text-gray-800">

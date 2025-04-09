@@ -32,7 +32,7 @@ function HeroSection() {
         {/* Right Section */}
         <div className="flex-1">
           {/* Title */}
-          <h2 className="text-blue-600 font-bold text-xl md:text-2xl">
+          <h2 className="text-red-600 font-bold text-xl md:text-2xl">
             INDIA'S LEADING
           </h2>
           <h1 className="text-gray-900 font-extrabold text-3xl md:text-4xl mt-1">
@@ -42,12 +42,12 @@ function HeroSection() {
           {/* Stats Cards */}
           <div className="flex gap-4 mt-4">
             {/* Card 1 */}
-            <div className="bg-black text-white px-6 py-4 rounded-md text-center">
+              <div className="border-2 border-gray-300 text-gray-500 px-6 py-4 rounded-md text-center">
               <p className="text-2xl font-bold">19</p>
               <p className="text-sm">Years of experience</p>
             </div>
             {/* Card 2 */}
-            <div className="bg-blue-500 text-white px-6 py-4 rounded-md text-center">
+            <div className="bg-red-500 text-white px-6 py-4 rounded-md text-center">
               <p className="text-2xl font-bold">1000+</p>
               <p className="text-sm">Happy customers</p>
             </div>
@@ -55,7 +55,7 @@ function HeroSection() {
 
           {/* Content */}
           <div className="mt-6">
-            <h3 className="text-gray-400 uppercase text-sm font-semibold">
+            <h3 className="text-gray-500 uppercase text-sm font-semibold">
               HIRING SOLUTION
             </h3>
             <h2 className="text-gray-900 font-bold text-2xl mt-1">
@@ -73,7 +73,7 @@ function HeroSection() {
             </p>
 
             {/* Button */}
-            <button className="mt-4 px-6 py-2 border border-black text-black rounded-lg hover:bg-gray-100 transition">
+            <button className="mt-4 px-6 py-2 border border-black text-black rounded-lg hover:bg-red-400 transition">
               KNOW MORE
             </button>
           </div>
